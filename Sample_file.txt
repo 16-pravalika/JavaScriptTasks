@@ -14,3 +14,4 @@
         </script>
     </body>
 </html>
+/* Sample Javascript program in notepad*/
